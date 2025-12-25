@@ -14,7 +14,6 @@ This repository contains manual and API testing artifacts for a web application.
 
 ## 📁 Repository Structure
 - Manual-Testing: Test cases and bug reports
-- 
 - API-Testing: Postman collection
 
 ## 🎯 Objective
